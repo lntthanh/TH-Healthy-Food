@@ -1,0 +1,2547 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecolife 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/roadthemes\n"
+"POT-Creation-Date: 2020-05-19 09:52+0700\n"
+"PO-Revision-Date: 2015-12-14 21:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-KeywordsList: _e;_n;__;_x;_ex;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ecolife/404.php:15
+msgid "OOPS! PAGE NOT BE FOUND"
+msgstr ""
+
+#: ../ecolife/404.php:16
+msgid ""
+"Sorry but the page you are looking for does not exist, has been removed, changed "
+"or is temporarity unavailable."
+msgstr ""
+
+#: ../ecolife/404.php:18
+msgid "Back to home page"
+msgstr ""
+
+#: ../ecolife/author.php:102
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../ecolife/category.php:76
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:327 ../ecolife/functions.php:1384
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:328 ../ecolife/functions.php:1385
+msgid "Install Plugins"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:330 ../ecolife/functions.php:1386
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:333 ../ecolife/functions.php:1387
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:385 ../ecolife/functions.php:1398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:386
+#: ../ecolife/class-tgm-plugin-activation.php:827
+#: ../ecolife/class-tgm-plugin-activation.php:2533
+#: ../ecolife/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:387
+#: ../ecolife/class-tgm-plugin-activation.php:3159 ../ecolife/functions.php:1399
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:388
+#: ../ecolife/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:934
+#: ../ecolife/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according "
+"to the WordPress guidelines."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not "
+"packaged in a folder."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2554
+#: ../ecolife/woocommerce/myaccount/my-orders.php:42
+msgid "Status"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a while "
+"on some hosts, so please be patient."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3509
+#: ../ecolife/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3509
+#: ../ecolife/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, "
+"so please be patient."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../ecolife/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../ecolife/comments.php:27
+msgid "1 comment"
+msgstr ""
+
+#: ../ecolife/comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: ../ecolife/content-audio.php:32 ../ecolife/content-audio.php:88
+#: ../ecolife/content-gallery.php:24 ../ecolife/content-gallery.php:92
+#: ../ecolife/content-image.php:26 ../ecolife/content-image.php:78
+#: ../ecolife/content-video.php:30 ../ecolife/content-video.php:98
+#: ../ecolife/content.php:26 ../ecolife/content.php:98
+msgid "Posted by"
+msgstr ""
+
+#: ../ecolife/content-audio.php:37 ../ecolife/content-audio.php:93
+#: ../ecolife/content-gallery.php:29 ../ecolife/content-gallery.php:97
+#: ../ecolife/content-image.php:31 ../ecolife/content-image.php:83
+#: ../ecolife/content-video.php:35 ../ecolife/content-video.php:103
+#: ../ecolife/content.php:31 ../ecolife/content.php:103
+msgid "On : "
+msgstr ""
+
+#: ../ecolife/content-audio.php:47 ../ecolife/content-gallery.php:39
+#: ../ecolife/content-image.php:41 ../ecolife/content-video.php:45
+#: ../ecolife/content.php:41
+msgid "In : "
+msgstr ""
+
+#: ../ecolife/content-audio.php:82 ../ecolife/content-gallery.php:86
+#: ../ecolife/content-image.php:72 ../ecolife/content-video.php:92
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../ecolife/content-audio.php:83 ../ecolife/content-audio.php:131
+#: ../ecolife/content-gallery.php:87 ../ecolife/content-gallery.php:140
+#: ../ecolife/content-image.php:73 ../ecolife/content-image.php:118
+#: ../ecolife/content-page.php:13 ../ecolife/content-video.php:93
+#: ../ecolife/content-video.php:129 ../ecolife/content.php:89 ../ecolife/content.php:137
+#: ../ecolife/image.php:115
+msgid "Pages:"
+msgstr ""
+
+#: ../ecolife/content-audio.php:104 ../ecolife/content-gallery.php:108
+#: ../ecolife/content-image.php:94 ../ecolife/content.php:114
+msgid "View posts"
+msgstr ""
+
+#: ../ecolife/content-audio.php:126 ../ecolife/content-gallery.php:135
+#: ../ecolife/content-image.php:113 ../ecolife/content-video.php:124
+#: ../ecolife/content.php:77 ../ecolife/content.php:132
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../ecolife/content-audio.php:156 ../ecolife/content-gallery.php:164
+#: ../ecolife/content-image.php:143 ../ecolife/content-video.php:153
+#: ../ecolife/content.php:161
+msgid "About the Author:"
+msgstr ""
+
+#: ../ecolife/content-none.php:12 ../ecolife/index.php:100 ../ecolife/search.php:81
+msgid "Nothing Found"
+msgstr ""
+
+#: ../ecolife/content-none.php:15 ../ecolife/index.php:103
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a related "
+"post."
+msgstr ""
+
+#: ../ecolife/footer.php:44
+msgid "Copyright"
+msgstr ""
+
+#: ../ecolife/footer.php:44
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ../ecolife/functions.php:175
+msgid "Search... "
+msgstr ""
+
+#: ../ecolife/functions.php:180 ../ecolife/functions.php:197
+msgid "Search"
+msgstr ""
+
+#: ../ecolife/functions.php:192 ../ecolife/functions.php:661 ../ecolife/functions.php:667
+#: ../ecolife/functions.php:671
+msgid "Search product..."
+msgstr ""
+
+#: ../ecolife/functions.php:323
+msgid "Primary Menu"
+msgstr ""
+
+#: ../ecolife/functions.php:324 ../ecolife/include/map_shortcodes.php:90
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../ecolife/functions.php:325 ../ecolife/include/map_shortcodes.php:119
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../ecolife/functions.php:326 ../ecolife/include/map_shortcodes.php:147
+#: ../ecolife/theme-config.php:458
+msgid "Categories Menu"
+msgstr ""
+
+#: ../ecolife/functions.php:410
+msgid "Days"
+msgstr ""
+
+#: ../ecolife/functions.php:411
+msgid "Hours"
+msgstr ""
+
+#: ../ecolife/functions.php:412
+msgid "Mins"
+msgstr ""
+
+#: ../ecolife/functions.php:413
+msgid "Secs"
+msgstr ""
+
+#: ../ecolife/functions.php:417 ../ecolife/woocommerce/loop/pagination.php:39
+msgid "Prev"
+msgstr ""
+
+#: ../ecolife/functions.php:418 ../ecolife/functions.php:1125
+#: ../ecolife/woocommerce/loop/pagination.php:40
+msgid "Next"
+msgstr ""
+
+#: ../ecolife/functions.php:677 ../ecolife/functions.php:683 ../ecolife/functions.php:687
+msgid "Search..."
+msgstr ""
+
+#: ../ecolife/functions.php:761
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../ecolife/functions.php:763
+msgid "Sidebar on blog page"
+msgstr ""
+
+#: ../ecolife/functions.php:770
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../ecolife/functions.php:772
+msgid "Sidebar on shop page (only sidebar shop layout)"
+msgstr ""
+
+#: ../ecolife/functions.php:779
+msgid "Single product Sidebar"
+msgstr ""
+
+#: ../ecolife/functions.php:781
+msgid "Sidebar on product details page"
+msgstr ""
+
+#: ../ecolife/functions.php:788
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../ecolife/functions.php:790
+msgid "Sidebar on content pages"
+msgstr ""
+
+#: ../ecolife/functions.php:822
+msgid "This content will be used to replace the featured image, use shortcode here"
+msgstr ""
+
+#: ../ecolife/functions.php:838
+msgid "Select a custom sidebar for this post/page"
+msgstr ""
+
+#: ../ecolife/functions.php:841
+msgid "- None -"
+msgstr ""
+
+#: ../ecolife/functions.php:854
+msgid "Sidebar position"
+msgstr ""
+
+#: ../ecolife/functions.php:857 ../ecolife/theme-config.php:852
+#: ../ecolife/theme-config.php:905 ../ecolife/theme-config.php:995
+#: ../ecolife/theme-config.php:1120
+msgid "Left"
+msgstr ""
+
+#: ../ecolife/functions.php:858 ../ecolife/theme-config.php:853
+#: ../ecolife/theme-config.php:906 ../ecolife/theme-config.php:996
+#: ../ecolife/theme-config.php:1121
+msgid "Right"
+msgstr ""
+
+#: ../ecolife/functions.php:953 ../ecolife/functions.php:1001
+msgid "Home"
+msgstr ""
+
+#: ../ecolife/functions.php:989 ../ecolife/functions.php:990 ../ecolife/functions.php:991
+#, php-format
+msgid "Archive for: %s"
+msgstr ""
+
+#: ../ecolife/functions.php:990
+msgid "F Y"
+msgstr ""
+
+#: ../ecolife/functions.php:991
+msgid "Y"
+msgstr ""
+
+#: ../ecolife/functions.php:992
+msgid "Archive for"
+msgstr ""
+
+#: ../ecolife/functions.php:993
+msgid "Blog Archives"
+msgstr ""
+
+#: ../ecolife/functions.php:994
+msgid "Search Results"
+msgstr ""
+
+#: ../ecolife/functions.php:1006 ../ecolife/theme-config.php:1091
+#: ../ecolife/theme-config.php:1099
+msgid "Blog"
+msgstr ""
+
+#: ../ecolife/functions.php:1069 ../ecolife/functions.php:1070
+msgid "on"
+msgstr ""
+
+#: ../ecolife/functions.php:1101
+msgid "Post navigation"
+msgstr ""
+
+#: ../ecolife/functions.php:1102
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../ecolife/functions.php:1103
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../ecolife/functions.php:1124
+msgid "Previous"
+msgstr ""
+
+#: ../ecolife/functions.php:1149
+msgid "Pingback:"
+msgstr ""
+
+#: ../ecolife/functions.php:1149
+msgid "(Edit)"
+msgstr ""
+
+#: ../ecolife/functions.php:1167
+msgid "Post author"
+msgstr ""
+
+#: ../ecolife/functions.php:1172
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../ecolife/functions.php:1176
+msgid "Reply"
+msgstr ""
+
+#: ../ecolife/functions.php:1180
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../ecolife/functions.php:1184 ../ecolife/image.php:138
+msgid "Edit"
+msgstr ""
+
+#: ../ecolife/functions.php:1207 ../ecolife/functions.php:1209
+#: ../ecolife/functions.php:1211
+msgid "Tags:"
+msgstr ""
+
+#: ../ecolife/functions.php:1207 ../ecolife/functions.php:1209
+#: ../ecolife/functions.php:1211
+#, php-format
+msgid "%2$s"
+msgstr ""
+
+#: ../ecolife/functions.php:1209 ../ecolife/functions.php:1213
+#: ../ecolife/functions.php:1251
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../ecolife/functions.php:1226
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../ecolife/functions.php:1229
+#, php-format
+msgid "Posted by %1$s / %2$s"
+msgstr ""
+
+#: ../ecolife/functions.php:1243 ../ecolife/include/shortcodes.php:601
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: ../ecolife/functions.php:1245 ../ecolife/include/shortcodes.php:603
+msgid " comments"
+msgstr ""
+
+#: ../ecolife/functions.php:1247 ../ecolife/include/shortcodes.php:605
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: ../ecolife/functions.php:1260
+msgid "RoadThemes Helper"
+msgstr ""
+
+#: ../ecolife/functions.php:1270
+msgid "Mega Main Menu"
+msgstr ""
+
+#: ../ecolife/functions.php:1277
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../ecolife/functions.php:1284
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: ../ecolife/functions.php:1291
+msgid "Templatera"
+msgstr ""
+
+#: ../ecolife/functions.php:1298 ../ecolife/include/map_shortcodes.php:829
+#: ../ecolife/theme-config.php:1141
+msgid "Testimonials"
+msgstr ""
+
+#: ../ecolife/functions.php:1306
+msgid "Redux Framework"
+msgstr ""
+
+#: ../ecolife/functions.php:1313
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../ecolife/functions.php:1318
+msgid "Instagram Feed"
+msgstr ""
+
+#: ../ecolife/functions.php:1323
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: ../ecolife/functions.php:1328
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: ../ecolife/functions.php:1333
+msgid "Simple Local Avatars"
+msgstr ""
+
+#: ../ecolife/functions.php:1338
+msgid "TinyMCE Advanced"
+msgstr ""
+
+#: ../ecolife/functions.php:1343
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: ../ecolife/functions.php:1348
+msgid "WooCommerce"
+msgstr ""
+
+#: ../ecolife/functions.php:1353
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: ../ecolife/functions.php:1358
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: ../ecolife/functions.php:1363
+msgid "YITH WooCommerce Zoom Magnifier"
+msgstr ""
+
+#: ../ecolife/functions.php:1400
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../ecolife/image.php:127
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at "
+"<a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:7
+msgid "Logo"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:8
+msgid "Insert logo image"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:11 ../ecolife/include/map_shortcodes.php:63
+#: ../ecolife/include/map_shortcodes.php:94 ../ecolife/include/map_shortcodes.php:123
+#: ../ecolife/include/map_shortcodes.php:151 ../ecolife/include/map_shortcodes.php:194
+#: ../ecolife/include/map_shortcodes.php:240 ../ecolife/include/map_shortcodes.php:269
+#: ../ecolife/include/map_shortcodes.php:290 ../ecolife/include/map_shortcodes.php:311
+#: ../ecolife/include/map_shortcodes.php:340 ../ecolife/include/map_shortcodes.php:487
+#: ../ecolife/include/map_shortcodes.php:622 ../ecolife/include/map_shortcodes.php:833
+#: ../ecolife/include/map_shortcodes.php:959 ../ecolife/include/map_shortcodes.php:1005
+#: ../ecolife/include/map_shortcodes.php:1058 ../ecolife/include/map_shortcodes.php:1103
+#: ../ecolife/include/map_shortcodes.php:1169 ../ecolife/include/map_shortcodes.php:1238
+#: ../ecolife/include/map_shortcodes.php:1282 ../ecolife/include/map_shortcodes.php:1342
+msgid "Theme"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:18
+msgid "Upload logo image"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:19
+msgid ""
+"Note: For retina screen, logo image size is at least twice as width and height "
+"(width is set below) to display clearly"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:27
+msgid "Insert logo link or not"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:30 ../ecolife/include/map_shortcodes.php:172
+#: ../ecolife/include/map_shortcodes.php:425 ../ecolife/include/map_shortcodes.php:435
+#: ../ecolife/include/map_shortcodes.php:557 ../ecolife/include/map_shortcodes.php:567
+#: ../ecolife/include/map_shortcodes.php:769 ../ecolife/include/map_shortcodes.php:781
+#: ../ecolife/include/map_shortcodes.php:851 ../ecolife/include/map_shortcodes.php:862
+#: ../ecolife/include/map_shortcodes.php:882 ../ecolife/include/map_shortcodes.php:901
+#: ../ecolife/include/map_shortcodes.php:909
+msgid "Yes"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:31 ../ecolife/include/map_shortcodes.php:171
+#: ../ecolife/include/map_shortcodes.php:426 ../ecolife/include/map_shortcodes.php:434
+#: ../ecolife/include/map_shortcodes.php:558 ../ecolife/include/map_shortcodes.php:566
+#: ../ecolife/include/map_shortcodes.php:770 ../ecolife/include/map_shortcodes.php:780
+#: ../ecolife/include/map_shortcodes.php:852 ../ecolife/include/map_shortcodes.php:863
+#: ../ecolife/include/map_shortcodes.php:883 ../ecolife/include/map_shortcodes.php:900
+#: ../ecolife/include/map_shortcodes.php:910
+msgid "No"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:38
+msgid "Logo width (unit: px)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:39
+msgid "Insert number. Leave blank if you want to use original image size"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:41
+msgid "150"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:47 ../ecolife/include/map_shortcodes.php:79
+#: ../ecolife/include/map_shortcodes.php:108 ../ecolife/include/map_shortcodes.php:137
+#: ../ecolife/include/map_shortcodes.php:179 ../ecolife/include/map_shortcodes.php:225
+#: ../ecolife/include/map_shortcodes.php:255 ../ecolife/include/map_shortcodes.php:276
+#: ../ecolife/include/map_shortcodes.php:297 ../ecolife/include/map_shortcodes.php:326
+#: ../ecolife/include/map_shortcodes.php:464 ../ecolife/include/map_shortcodes.php:597
+#: ../ecolife/include/map_shortcodes.php:679 ../ecolife/include/map_shortcodes.php:934
+#: ../ecolife/include/map_shortcodes.php:991 ../ecolife/include/map_shortcodes.php:1042
+#: ../ecolife/include/map_shortcodes.php:1089 ../ecolife/include/map_shortcodes.php:1143
+#: ../ecolife/include/map_shortcodes.php:1223 ../ecolife/include/map_shortcodes.php:1268
+#: ../ecolife/include/map_shortcodes.php:1328 ../ecolife/include/map_shortcodes.php:1380
+msgid "Style"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:50 ../ecolife/include/map_shortcodes.php:111
+#: ../ecolife/include/map_shortcodes.php:140 ../ecolife/include/map_shortcodes.php:182
+#: ../ecolife/include/map_shortcodes.php:258 ../ecolife/include/map_shortcodes.php:279
+#: ../ecolife/include/map_shortcodes.php:300 ../ecolife/include/map_shortcodes.php:329
+#: ../ecolife/include/map_shortcodes.php:467 ../ecolife/include/map_shortcodes.php:600
+#: ../ecolife/include/map_shortcodes.php:682 ../ecolife/include/map_shortcodes.php:937
+#: ../ecolife/include/map_shortcodes.php:994 ../ecolife/include/map_shortcodes.php:1092
+#: ../ecolife/include/map_shortcodes.php:1331
+msgid "Style 1"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:51 ../ecolife/include/map_shortcodes.php:229
+msgid "Style 2 (footer)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:52
+msgid "Style 3 (header mobile + sticky)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:59 ../ecolife/theme-config.php:436
+msgid "Main Menu"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:60 ../ecolife/include/map_shortcodes.php:70
+msgid "Set Primary Menu in Apperance - Menus - Manage Locations"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:71 ../ecolife/include/map_shortcodes.php:102
+#: ../ecolife/include/map_shortcodes.php:131
+msgid "More settings in Theme Options - Main Menu"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:82 ../ecolife/include/map_shortcodes.php:1045
+#: ../ecolife/include/map_shortcodes.php:1146 ../ecolife/include/map_shortcodes.php:1226
+#: ../ecolife/include/map_shortcodes.php:1271
+msgid "Style 1 (Default)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:91 ../ecolife/include/map_shortcodes.php:101
+msgid "Set Sticky Menu in Apperance - Menus - Manage Locations"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:120 ../ecolife/include/map_shortcodes.php:130
+msgid "Set Mobile Menu in Apperance - Menus - Manage Locations"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:148 ../ecolife/include/map_shortcodes.php:158
+msgid "Set Categories Menu in Apperance - Menus - Manage Locations"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:159
+msgid "More settings in Theme Options - Categories Menu"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:167
+msgid "Show full Categories in home page ?"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:168
+msgid "In inner pages, it only shows the toogle"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:183 ../ecolife/include/map_shortcodes.php:1332
+msgid "Style 2"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:190 ../ecolife/theme-config.php:584
+#: ../ecolife/theme-config.php:590
+msgid "Social Icons"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:191
+msgid "Configure icons and links in Theme Options"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:201
+msgid "Configure icons and links in Theme Options > Social Icons"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:209
+msgid "Social title element"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:217
+msgid "Social sub-title element"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:228
+msgid "Style 1 (header)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:236 ../ecolife/include/map_shortcodes.php:237
+msgid "Mini Cart"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:247 ../ecolife/include/map_shortcodes.php:318
+msgid "This widget does not have settings"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:265 ../ecolife/include/map_shortcodes.php:266
+#: ../ecolife/include/shortcodes.php:217
+msgid "Wishlist"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:286 ../ecolife/include/map_shortcodes.php:287
+msgid "Product Search (No dropdown)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:307 ../ecolife/include/map_shortcodes.php:308
+msgid "Product Search (Dropdown)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:336 ../ecolife/theme-config.php:804
+msgid "Image slider"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:337 ../ecolife/include/map_shortcodes.php:484
+msgid "Upload images and links in Theme Options"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:347 ../ecolife/include/map_shortcodes.php:494
+#: ../ecolife/include/map_shortcodes.php:697
+msgid "Number of rows"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:361 ../ecolife/include/map_shortcodes.php:506
+msgid "Number of columns (screen: over 1500px)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:363 ../ecolife/include/map_shortcodes.php:370
+#: ../ecolife/include/map_shortcodes.php:378 ../ecolife/include/map_shortcodes.php:526
+msgid "4"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:368 ../ecolife/include/map_shortcodes.php:512
+#: ../ecolife/include/map_shortcodes.php:709
+msgid "Number of columns (screen: 1200px - 1499px)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:376 ../ecolife/include/map_shortcodes.php:518
+#: ../ecolife/include/map_shortcodes.php:717
+msgid "Number of columns (screen: 992px - 1199px)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:384 ../ecolife/include/map_shortcodes.php:524
+#: ../ecolife/include/map_shortcodes.php:725
+msgid "Number of columns (screen: 768px - 991px)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:386 ../ecolife/include/map_shortcodes.php:532
+#: ../ecolife/include/map_shortcodes.php:712 ../ecolife/include/map_shortcodes.php:719
+#: ../ecolife/include/map_shortcodes.php:727
+msgid "3"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:392 ../ecolife/include/map_shortcodes.php:530
+#: ../ecolife/include/map_shortcodes.php:733
+msgid "Number of columns (screen: 640px - 767px)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:394 ../ecolife/include/map_shortcodes.php:402
+#: ../ecolife/include/map_shortcodes.php:538 ../ecolife/include/map_shortcodes.php:735
+#: ../ecolife/include/map_shortcodes.php:743
+msgid "2"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:400 ../ecolife/include/map_shortcodes.php:536
+#: ../ecolife/include/map_shortcodes.php:741
+msgid "Number of columns (screen: 480px - 639px)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:408 ../ecolife/include/map_shortcodes.php:542
+#: ../ecolife/include/map_shortcodes.php:749
+msgid "Number of columns (screen: 375px - 479px)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:410 ../ecolife/include/map_shortcodes.php:418
+#: ../ecolife/include/map_shortcodes.php:544 ../ecolife/include/map_shortcodes.php:550
+#: ../ecolife/include/map_shortcodes.php:751 ../ecolife/include/map_shortcodes.php:759
+msgid "1"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:416 ../ecolife/include/map_shortcodes.php:548
+#: ../ecolife/include/map_shortcodes.php:757
+msgid "Number of columns (screen: under 374px)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:422 ../ecolife/include/map_shortcodes.php:554
+#: ../ecolife/include/map_shortcodes.php:764 ../ecolife/include/map_shortcodes.php:897
+msgid "Navigation"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:431 ../ecolife/include/map_shortcodes.php:563
+#: ../ecolife/include/map_shortcodes.php:775 ../ecolife/include/map_shortcodes.php:906
+msgid "Pagination"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:440 ../ecolife/include/map_shortcodes.php:572
+#: ../ecolife/include/map_shortcodes.php:786
+msgid "Item Margin (unit: pixel)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:446 ../ecolife/include/map_shortcodes.php:578
+#: ../ecolife/include/map_shortcodes.php:794 ../ecolife/include/map_shortcodes.php:915
+msgid "Slider speed number (unit: second)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:453 ../ecolife/include/map_shortcodes.php:585
+#: ../ecolife/include/map_shortcodes.php:802 ../ecolife/include/map_shortcodes.php:922
+msgid "Slider loop"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:459 ../ecolife/include/map_shortcodes.php:591
+#: ../ecolife/include/map_shortcodes.php:809 ../ecolife/include/map_shortcodes.php:928
+msgid "Slider Auto"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:472 ../ecolife/include/map_shortcodes.php:606
+#: ../ecolife/include/map_shortcodes.php:817 ../ecolife/include/map_shortcodes.php:944
+msgid "Navigation style"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:475 ../ecolife/include/map_shortcodes.php:609
+#: ../ecolife/include/map_shortcodes.php:821 ../ecolife/include/map_shortcodes.php:947
+msgid "Navigation center horizontal"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:476 ../ecolife/include/map_shortcodes.php:610
+#: ../ecolife/include/map_shortcodes.php:822 ../ecolife/include/map_shortcodes.php:948
+msgid "Navigation top-right"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:483 ../ecolife/theme-config.php:823
+msgid "Brand Logos"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:508 ../ecolife/include/map_shortcodes.php:514
+#: ../ecolife/include/map_shortcodes.php:520
+msgid "5"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:618
+msgid "Latest posts"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:619
+msgid "List posts"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:629
+msgid "Number of posts"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:631 ../ecolife/include/map_shortcodes.php:842
+msgid "10"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:637 ../ecolife/include/map_shortcodes.php:890
+msgid "Category"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:639 ../ecolife/include/map_shortcodes.php:892
+msgid "0"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:640
+msgid "Slug of the category (example: slug-1, slug-2). Default is 0 : show all posts"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:646
+msgid "Image scale"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:657
+msgid "Excerpt length"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:659
+msgid "20"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:665
+msgid "Number of columns"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:688
+msgid "Enable slider"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:692 ../ecolife/include/map_shortcodes.php:699
+#: ../ecolife/include/map_shortcodes.php:711 ../ecolife/include/map_shortcodes.php:720
+#: ../ecolife/include/map_shortcodes.php:728 ../ecolife/include/map_shortcodes.php:736
+#: ../ecolife/include/map_shortcodes.php:744 ../ecolife/include/map_shortcodes.php:752
+#: ../ecolife/include/map_shortcodes.php:760 ../ecolife/include/map_shortcodes.php:767
+#: ../ecolife/include/map_shortcodes.php:778 ../ecolife/include/map_shortcodes.php:790
+#: ../ecolife/include/map_shortcodes.php:798 ../ecolife/include/map_shortcodes.php:805
+#: ../ecolife/include/map_shortcodes.php:812 ../ecolife/include/map_shortcodes.php:819
+msgid "Slider Options"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:830
+msgid "Testimonial slider"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:840
+msgid "Number of testimonial"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:848
+msgid "Display Author"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:859
+msgid "Display Avatar"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:870
+msgid "Avatar image size"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:873
+msgid "Avatar image size in pixels. Default is 150"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:879
+msgid "Display URL"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:893
+msgid "Slug of the category. Default is 0 : show all testimonials"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:955 ../ecolife/include/map_shortcodes.php:956
+msgid "Counter"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:966
+msgid "Image icon"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:969
+msgid "Upload icon image"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:975
+msgid "Number"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:983
+msgid "Text"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1001 ../ecolife/include/map_shortcodes.php:1002
+msgid "Heading Title"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1012
+msgid "Heading title element"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1020
+msgid "Tag heading"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1023
+msgid "h2"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1024
+msgid "h3"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1025
+msgid "h4"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1026
+msgid "h5"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1027
+msgid "h6"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1034
+msgid "Heading sub-title element"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1046
+msgid "Style 2 (Footer title)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1054 ../ecolife/include/map_shortcodes.php:1055
+msgid "Countdown"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1065
+msgid "End date (day)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1073
+msgid "End date (month)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1081
+msgid "End date (year)"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1099
+msgid "Mailchimp Newsletter"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1100
+msgid "Mailchimp Newsletter "
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1110
+msgid "Newsletter title"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1118
+msgid "Newsletter sub-title"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1126
+msgid "Upload newsletter title image"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1134
+msgid "Insert id of Mailchimp Form"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1135
+msgid "See id in admin -> MailChimp for WP -> Form, under the form title"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1165 ../ecolife/include/map_shortcodes.php:1166
+msgid "Custom Menu"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1176
+msgid "Upload menu image"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1184
+msgid "Menu title"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1190
+msgid "Choose Menu"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1193
+msgid ""
+"Custom menus not found. Please visit <b>Appearance > Menus</b> page to create new "
+"menu."
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1193
+msgid "Select menu to display."
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1201
+msgid "Menu text"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1209
+msgid "Menu link text"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1217
+msgid "Menu link url"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1227
+msgid "Style 2 "
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1234
+msgid "Policy"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1235
+msgid "Policy content"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1245
+msgid "Upload Policy icon"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1253
+msgid "Policy title"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1261
+msgid "Policy text"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1278
+msgid "Static block 1"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1279
+msgid "Static block with link text"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1289 ../ecolife/include/map_shortcodes.php:1349
+msgid "Upload Static image"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1297 ../ecolife/include/map_shortcodes.php:1357
+msgid "Static title"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1305 ../ecolife/include/map_shortcodes.php:1365
+msgid "Static text"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1313
+msgid "Static link text"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1321 ../ecolife/include/map_shortcodes.php:1373
+msgid "Static link url"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1338
+msgid "Static block 2"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1339
+msgid "Static block without link text"
+msgstr ""
+
+#: ../ecolife/include/map_shortcodes.php:1383
+msgid "Style 1 (demo 3 style 1)"
+msgstr ""
+
+#: ../ecolife/include/shortcodes.php:118
+msgid "ALL CATEGORIES"
+msgstr ""
+
+#: ../ecolife/include/shortcodes.php:123
+msgid "More Categories"
+msgstr ""
+
+#: ../ecolife/include/shortcodes.php:124
+msgid "Close Menu"
+msgstr ""
+
+#: ../ecolife/include/shortcodes.php:237
+msgid "All Categories"
+msgstr ""
+
+#: ../ecolife/include/shortcodes.php:621
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../ecolife/include/shortcodes.php:621
+msgid "By"
+msgstr ""
+
+#: ../ecolife/include/wooajax.php:87 ../ecolife/woocommerce/cart/mini-cart.php:32
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../ecolife/include/wooajax.php:100
+msgid "Product is added to cart"
+msgstr ""
+
+#: ../ecolife/include/wooajax.php:121
+msgid "View Cart"
+msgstr ""
+
+#: ../ecolife/index.php:91
+msgid "No posts to display"
+msgstr ""
+
+#: ../ecolife/index.php:94
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../ecolife/search.php:84
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../ecolife/tag.php:79
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../ecolife/theme-config.php:42
+msgid "The compiler hook has run!"
+msgstr ""
+
+#: ../ecolife/theme-config.php:55
+msgid "Section via hook"
+msgstr ""
+
+#: ../ecolife/theme-config.php:56
+msgid ""
+"This is a section created by adding a filter to the sections array. Can be used by "
+"child themes to add/remove sections from the options."
+msgstr ""
+
+#: ../ecolife/theme-config.php:72
+msgid "Testing filter hook!"
+msgstr ""
+
+#: ../ecolife/theme-config.php:86
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../ecolife/theme-config.php:100
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../ecolife/theme-config.php:101
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../ecolife/theme-config.php:102
+msgid "Tags"
+msgstr ""
+
+#: ../ecolife/theme-config.php:107
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../ecolife/theme-config.php:107
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../ecolife/theme-config.php:117
+msgid "General"
+msgstr ""
+
+#: ../ecolife/theme-config.php:118
+msgid "General theme options"
+msgstr ""
+
+#: ../ecolife/theme-config.php:125
+msgid "Page content background"
+msgstr ""
+
+#: ../ecolife/theme-config.php:126
+msgid "Select background for page content."
+msgstr ""
+
+#: ../ecolife/theme-config.php:132
+msgid "Border Option"
+msgstr ""
+
+#: ../ecolife/theme-config.php:133
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: ../ecolife/theme-config.php:139
+msgid "Back To Top"
+msgstr ""
+
+#: ../ecolife/theme-config.php:140
+msgid "Show back to top button on all pages"
+msgstr ""
+
+#: ../ecolife/theme-config.php:146
+msgid "Row space"
+msgstr ""
+
+#: ../ecolife/theme-config.php:147
+msgid "Space between row (example: 50px)."
+msgstr ""
+
+#: ../ecolife/theme-config.php:155
+msgid "Colors"
+msgstr ""
+
+#: ../ecolife/theme-config.php:156
+msgid "Color options"
+msgstr ""
+
+#: ../ecolife/theme-config.php:162
+msgid "Primary Color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:163
+msgid "Pick a color for primary color."
+msgstr ""
+
+#: ../ecolife/theme-config.php:172
+msgid "Sale Label BG Color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:173
+msgid "Pick a color for bg sale label."
+msgstr ""
+
+#: ../ecolife/theme-config.php:182
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:183
+msgid "Pick a color for sale label text."
+msgstr ""
+
+#: ../ecolife/theme-config.php:192
+msgid "Rating Star Color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:193
+msgid "Pick a color for star of rating."
+msgstr ""
+
+#: ../ecolife/theme-config.php:201
+msgid "Link Color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:202
+msgid "Pick a color for link."
+msgstr ""
+
+#: ../ecolife/theme-config.php:213
+msgid "Text selected background"
+msgstr ""
+
+#: ../ecolife/theme-config.php:214
+msgid "Select background for selected text."
+msgstr ""
+
+#: ../ecolife/theme-config.php:222
+msgid "Text selected color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:223
+msgid "Select color for selected text."
+msgstr ""
+
+#: ../ecolife/theme-config.php:231
+msgid "Price Sale Off color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:232
+msgid "Pick a color for Price Sale Off color."
+msgstr ""
+
+#: ../ecolife/theme-config.php:265
+msgid "Header"
+msgstr ""
+
+#: ../ecolife/theme-config.php:266
+msgid "Header options"
+msgstr ""
+
+#: ../ecolife/theme-config.php:273
+msgid "Header Layout"
+msgstr ""
+
+#: ../ecolife/theme-config.php:275 ../ecolife/theme-config.php:284
+#: ../ecolife/theme-config.php:344 ../ecolife/theme-config.php:549
+msgid "Go to WPBakery Page Builder => Templates to create/edit layout"
+msgstr ""
+
+#: ../ecolife/theme-config.php:282
+msgid "Header Mobile Layout"
+msgstr ""
+
+#: ../ecolife/theme-config.php:291
+msgid "Header background"
+msgstr ""
+
+#: ../ecolife/theme-config.php:292
+msgid "Pick a color for header background."
+msgstr ""
+
+#: ../ecolife/theme-config.php:299
+msgid "Header text color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:300
+msgid "Pick a color for header color."
+msgstr ""
+
+#: ../ecolife/theme-config.php:308
+msgid "Header link color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:309
+msgid "Pick a color for header link color."
+msgstr ""
+
+#: ../ecolife/theme-config.php:320
+msgid "Dropdown menu background"
+msgstr ""
+
+#: ../ecolife/theme-config.php:321
+msgid "Pick a color for dropdown menu background."
+msgstr ""
+
+#: ../ecolife/theme-config.php:330
+msgid "Sticky header"
+msgstr ""
+
+#: ../ecolife/theme-config.php:336
+msgid "Use sticky header"
+msgstr ""
+
+#: ../ecolife/theme-config.php:342
+msgid "Header Sticky Layout"
+msgstr ""
+
+#: ../ecolife/theme-config.php:351
+msgid "Header sticky background"
+msgstr ""
+
+#: ../ecolife/theme-config.php:352
+msgid "Set color and alpha channel"
+msgstr ""
+
+#: ../ecolife/theme-config.php:378
+msgid "Header Sticky text color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:379
+msgid "Pick a color for header sticky color."
+msgstr ""
+
+#: ../ecolife/theme-config.php:387
+msgid "Header Sticky link color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:388
+msgid "Pick a color for header sticky link color."
+msgstr ""
+
+#: ../ecolife/theme-config.php:400
+msgid "Top Bar"
+msgstr ""
+
+#: ../ecolife/theme-config.php:406
+msgid "Topbar background"
+msgstr ""
+
+#: ../ecolife/theme-config.php:407
+msgid "Pick a color for topbar background."
+msgstr ""
+
+#: ../ecolife/theme-config.php:414
+msgid "Top bar text color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:415
+msgid "Pick a color for top bar text color."
+msgstr ""
+
+#: ../ecolife/theme-config.php:423
+msgid "Top bar link color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:424
+msgid "Pick a color for top bar link color ."
+msgstr ""
+
+#: ../ecolife/theme-config.php:441
+msgid "Mobile menu label"
+msgstr ""
+
+#: ../ecolife/theme-config.php:442
+msgid "The label for mobile menu (example: Menu, Go to..."
+msgstr ""
+
+#: ../ecolife/theme-config.php:443
+msgid "Menu"
+msgstr ""
+
+#: ../ecolife/theme-config.php:448
+msgid "Submenu background"
+msgstr ""
+
+#: ../ecolife/theme-config.php:449
+msgid "Pick a color for sub menu bg ."
+msgstr ""
+
+#: ../ecolife/theme-config.php:463
+msgid "Category menu label"
+msgstr ""
+
+#: ../ecolife/theme-config.php:464
+msgid "The label for category menu"
+msgstr ""
+
+#: ../ecolife/theme-config.php:465
+msgid "Browse categories"
+msgstr ""
+
+#: ../ecolife/theme-config.php:470
+msgid "Category menu label background"
+msgstr ""
+
+#: ../ecolife/theme-config.php:471
+msgid "Pick a color for category menu label background."
+msgstr ""
+
+#: ../ecolife/theme-config.php:479
+msgid "Category menu background"
+msgstr ""
+
+#: ../ecolife/theme-config.php:480
+msgid "Pick a color for category menu background."
+msgstr ""
+
+#: ../ecolife/theme-config.php:488
+msgid "Sub category menu background"
+msgstr ""
+
+#: ../ecolife/theme-config.php:489
+msgid "Pick a color for category sub menu background."
+msgstr ""
+
+#: ../ecolife/theme-config.php:497
+msgid "Number of items"
+msgstr ""
+
+#: ../ecolife/theme-config.php:498
+msgid "Number of menu items level 1 to show."
+msgstr ""
+
+#: ../ecolife/theme-config.php:508
+msgid "More items label"
+msgstr ""
+
+#: ../ecolife/theme-config.php:509
+msgid "The label for more items button"
+msgstr ""
+
+#: ../ecolife/theme-config.php:510
+msgid "Show More"
+msgstr ""
+
+#: ../ecolife/theme-config.php:515
+msgid "Less items label"
+msgstr ""
+
+#: ../ecolife/theme-config.php:516
+msgid "The label for less items button"
+msgstr ""
+
+#: ../ecolife/theme-config.php:517
+msgid "Show Less"
+msgstr ""
+
+#: ../ecolife/theme-config.php:539
+msgid "Footer"
+msgstr ""
+
+#: ../ecolife/theme-config.php:540
+msgid "Footer options"
+msgstr ""
+
+#: ../ecolife/theme-config.php:547
+msgid "Footer Layout"
+msgstr ""
+
+#: ../ecolife/theme-config.php:556
+msgid "Footer background"
+msgstr ""
+
+#: ../ecolife/theme-config.php:557 ../ecolife/theme-config.php:1186
+msgid "Upload image or select color."
+msgstr ""
+
+#: ../ecolife/theme-config.php:563
+msgid "Footer text color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:564
+msgid "Pick a color for footer color."
+msgstr ""
+
+#: ../ecolife/theme-config.php:572
+msgid "Footer link color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:573
+msgid "Pick a color for footer link color."
+msgstr ""
+
+#: ../ecolife/theme-config.php:591
+msgid "Enter social links"
+msgstr ""
+
+#: ../ecolife/theme-config.php:592
+msgid "Drag/drop to re-arrange"
+msgstr ""
+
+#: ../ecolife/theme-config.php:628
+msgid "Fonts"
+msgstr ""
+
+#: ../ecolife/theme-config.php:629
+msgid "Fonts options"
+msgstr ""
+
+#: ../ecolife/theme-config.php:636
+msgid "Body font"
+msgstr ""
+
+#: ../ecolife/theme-config.php:643
+msgid "Main body font."
+msgstr ""
+
+#: ../ecolife/theme-config.php:655
+msgid "Heading font"
+msgstr ""
+
+#: ../ecolife/theme-config.php:664
+msgid "Heading font."
+msgstr ""
+
+#: ../ecolife/theme-config.php:675
+msgid "Menu font"
+msgstr ""
+
+#: ../ecolife/theme-config.php:684
+msgid "Menu font."
+msgstr ""
+
+#: ../ecolife/theme-config.php:696
+msgid "Sub menu font"
+msgstr ""
+
+#: ../ecolife/theme-config.php:705
+msgid "sub menu font."
+msgstr ""
+
+#: ../ecolife/theme-config.php:717
+msgid "Dropdown menu font"
+msgstr ""
+
+#: ../ecolife/theme-config.php:726
+msgid "Dropdown menu font."
+msgstr ""
+
+#: ../ecolife/theme-config.php:738
+msgid "Category menu font"
+msgstr ""
+
+#: ../ecolife/theme-config.php:747
+msgid "Category menu font."
+msgstr ""
+
+#: ../ecolife/theme-config.php:759
+msgid "Category sub menu font"
+msgstr ""
+
+#: ../ecolife/theme-config.php:768
+msgid "Category sub menu font."
+msgstr ""
+
+#: ../ecolife/theme-config.php:780
+msgid "Price font"
+msgstr ""
+
+#: ../ecolife/theme-config.php:789
+msgid "Price font."
+msgstr ""
+
+#: ../ecolife/theme-config.php:805
+msgid "Upload images and links"
+msgstr ""
+
+#: ../ecolife/theme-config.php:811
+msgid "Images"
+msgstr ""
+
+#: ../ecolife/theme-config.php:812
+msgid "Upload images and enter links."
+msgstr ""
+
+#: ../ecolife/theme-config.php:814 ../ecolife/theme-config.php:833
+#: ../ecolife/woocommerce/class-wc-widget-cart.php:27
+msgid "Title"
+msgstr ""
+
+#: ../ecolife/theme-config.php:815 ../ecolife/theme-config.php:834
+msgid "Description"
+msgstr ""
+
+#: ../ecolife/theme-config.php:816 ../ecolife/theme-config.php:835
+msgid "Link"
+msgstr ""
+
+#: ../ecolife/theme-config.php:824
+msgid "Upload brand logos and links"
+msgstr ""
+
+#: ../ecolife/theme-config.php:830
+msgid "Logos"
+msgstr ""
+
+#: ../ecolife/theme-config.php:831
+msgid "Upload logo image and enter logo link."
+msgstr ""
+
+#: ../ecolife/theme-config.php:842 ../ecolife/theme-config.php:894
+#: ../ecolife/theme-config.php:985 ../ecolife/theme-config.php:1107
+msgid "Sidebar"
+msgstr ""
+
+#: ../ecolife/theme-config.php:843
+msgid ""
+"Sidebar options. Shop/Product sidebar and Blog sidebar are in Product and Blog "
+"sections"
+msgstr ""
+
+#: ../ecolife/theme-config.php:849
+msgid "Inner Pages Sidebar Position"
+msgstr ""
+
+#: ../ecolife/theme-config.php:850
+msgid ""
+"Sidebar Position on pages (default pages). If there is no widget in this sidebar, "
+"the layout will be nosidebar"
+msgstr ""
+
+#: ../ecolife/theme-config.php:860
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../ecolife/theme-config.php:861
+msgid "Add more sidebars"
+msgstr ""
+
+#: ../ecolife/theme-config.php:862
+msgid ""
+"Enter sidebar name (Only allow digits and letters). click Add more to add more "
+"sidebar. Edit your page to select a sidebar "
+msgstr ""
+
+#: ../ecolife/theme-config.php:868 ../ecolife/woocommerce/cart/cart.php:30
+msgid "Product"
+msgstr ""
+
+#: ../ecolife/theme-config.php:869
+msgid "Use this section to select options for product"
+msgstr ""
+
+#: ../ecolife/theme-config.php:875
+msgid "Banner image in shop pages"
+msgstr ""
+
+#: ../ecolife/theme-config.php:878 ../ecolife/theme-config.php:1006
+msgid "Upload image here."
+msgstr ""
+
+#: ../ecolife/theme-config.php:883
+msgid "Show individual category thumbnail"
+msgstr ""
+
+#: ../ecolife/theme-config.php:884
+msgid "Show individual category thumbnail in product shop/product category pages. "
+msgstr ""
+
+#: ../ecolife/theme-config.php:885
+msgid ""
+"If yes, product shop/product category page will display the thumbnail as banner. "
+"If no, product shop/product category page will display the shop banner (image "
+"uploaded above)"
+msgstr ""
+
+#: ../ecolife/theme-config.php:891
+msgid "Shop Layout"
+msgstr ""
+
+#: ../ecolife/theme-config.php:892 ../ecolife/theme-config.php:982
+#: ../ecolife/theme-config.php:1105
+msgid "If there is no widget in this sidebar, the layout will be nosidebar"
+msgstr ""
+
+#: ../ecolife/theme-config.php:895 ../ecolife/theme-config.php:986
+msgid "Full Width"
+msgstr ""
+
+#: ../ecolife/theme-config.php:902
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: ../ecolife/theme-config.php:903
+msgid "Sidebar Position on shop page."
+msgstr ""
+
+#: ../ecolife/theme-config.php:913
+msgid "Shop default view"
+msgstr ""
+
+#: ../ecolife/theme-config.php:916
+msgid "Grid View"
+msgstr ""
+
+#: ../ecolife/theme-config.php:917
+msgid "List View"
+msgstr ""
+
+#: ../ecolife/theme-config.php:923
+msgid "Product name color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:924
+msgid "Select color"
+msgstr ""
+
+#: ../ecolife/theme-config.php:932
+msgid "Use secondary product image"
+msgstr ""
+
+#: ../ecolife/theme-config.php:933
+msgid "Show the secondary image when hover on product."
+msgstr ""
+
+#: ../ecolife/theme-config.php:939
+msgid "Products per page"
+msgstr ""
+
+#: ../ecolife/theme-config.php:940
+msgid "Amount of products per page in category page"
+msgstr ""
+
+#: ../ecolife/theme-config.php:950
+msgid "Product columns"
+msgstr ""
+
+#: ../ecolife/theme-config.php:951
+msgid "Amount of product columns in category page"
+msgstr ""
+
+#: ../ecolife/theme-config.php:952 ../ecolife/theme-config.php:964
+msgid "Only works with: 1, 2, 3, 4, 6"
+msgstr ""
+
+#: ../ecolife/theme-config.php:962
+msgid "Product columns on full width shop"
+msgstr ""
+
+#: ../ecolife/theme-config.php:963
+msgid "Amount of product columns in full width category page"
+msgstr ""
+
+#: ../ecolife/theme-config.php:975
+msgid "Product page"
+msgstr ""
+
+#: ../ecolife/theme-config.php:981
+msgid "Single Product Layout"
+msgstr ""
+
+#: ../ecolife/theme-config.php:992
+msgid "Single Product Sidebar Position"
+msgstr ""
+
+#: ../ecolife/theme-config.php:993
+msgid "Sidebar Position on single product page."
+msgstr ""
+
+#: ../ecolife/theme-config.php:1003
+msgid "Banner image for single product pages"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1011
+msgid "Single Product header text"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1012
+msgid "Product Details"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1017
+msgid "Related product title"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1018 ../ecolife/woocommerce/single-product/related.php:40
+msgid "Related Products"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1023
+msgid "Related product sub title"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1024
+msgid "Browse the collection of our related products."
+msgstr ""
+
+#: ../ecolife/theme-config.php:1029
+msgid "Upsell product title"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1030 ../ecolife/woocommerce/single-product/up-sells.php:40
+msgid "Upsell Products"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1035
+msgid "Upsell product sub title"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1036
+msgid "Browse the collection of our upsell products."
+msgstr ""
+
+#: ../ecolife/theme-config.php:1041
+msgid "Cross sell product title"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1042
+msgid "Cross sell product"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1047
+msgid "Crossell product sub title"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1048
+msgid "Browse the collection of our crossell products."
+msgstr ""
+
+#: ../ecolife/theme-config.php:1053
+msgid "Number of related products"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1063
+msgid "Product share title"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1064
+msgid "Share this product"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1070 ../ecolife/theme-config.php:1083
+#: ../ecolife/woocommerce/content-product-archive.php:121
+#: ../ecolife/woocommerce/content-product-archive.php:239
+#: ../ecolife/woocommerce/content-product.php:102
+#: ../ecolife/woocommerce/content-product.php:307
+msgid "Quick View"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1076
+msgid "View all features text"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1077
+msgid "This is the text on quick view box"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1078
+msgid "See all features"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1084
+msgid "Show quick view button on all pages"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1092
+msgid "Use this section to select options for blog"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1098
+msgid "Blog header text"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1104
+msgid "Blog Layout"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1108
+msgid "No Sidebar"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1109
+msgid "Large Image"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1110 ../ecolife/woocommerce/archive-product.php:176
+msgid "Grid"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1117
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1118
+msgid "Sidebar Position on Blog pages."
+msgstr ""
+
+#: ../ecolife/theme-config.php:1128
+msgid "Read more text"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1129
+msgid "Read more"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1134
+msgid "Blog share title"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1135
+msgid "Share this post"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1142
+msgid "Use this section to select options for Testimonials"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1148
+msgid "Auto scroll"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1154
+msgid "Pause in (seconds)"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1155
+msgid "Pause time, default value: 3000"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1165
+msgid "Animate in (seconds)"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1166
+msgid "Animate time, default value: 2000"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1177
+msgid "Error 404 Page"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1178
+msgid "Error 404 page options"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1185
+msgid "Error 404 background"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1193
+msgid "Less Compiler"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1194
+msgid ""
+"Turn on this option to apply all theme options. Turn of when you have finished "
+"changing theme options and your site is ready."
+msgstr ""
+
+#: ../ecolife/theme-config.php:1200
+msgid "Enable Less Compiler"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1206
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../ecolife/theme-config.php:1207
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../ecolife/theme-config.php:1208
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../ecolife/theme-config.php:1212
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../ecolife/theme-config.php:1216
+msgid "Import / Export"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1217
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../ecolife/theme-config.php:1223
+msgid "Import Export"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1224
+msgid "Save and restore your Redux options"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1231
+msgid "Theme Information"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1245
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1246 ../ecolife/theme-config.php:1251
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1250
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1254
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1268 ../ecolife/theme-config.php:1269
+msgid "Theme Options"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1324
+msgid "Visit us on GitHub"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1329
+msgid "Like us on Facebook"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1334
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1339
+msgid "Find us on LinkedIn"
+msgstr ""
+
+#: ../ecolife/theme-config.php:1372
+msgid "just testing"
+msgstr ""
+
+#: ../ecolife/woocommerce/archive-product.php:175
+msgid "View on"
+msgstr ""
+
+#: ../ecolife/woocommerce/archive-product.php:177
+msgid "List"
+msgstr ""
+
+#: ../ecolife/woocommerce/cart/cart.php:31
+msgid "Price"
+msgstr ""
+
+#: ../ecolife/woocommerce/cart/cart.php:32
+msgid "Quantity"
+msgstr ""
+
+#: ../ecolife/woocommerce/cart/cart.php:33
+#: ../ecolife/woocommerce/myaccount/my-orders.php:43
+msgid "Total"
+msgstr ""
+
+#: ../ecolife/woocommerce/cart/cart.php:55 ../ecolife/woocommerce/cart/mini-cart.php:65
+msgid "Remove this item"
+msgstr ""
+
+#: ../ecolife/woocommerce/cart/cart.php:89
+msgid "Available on backorder"
+msgstr ""
+
+#: ../ecolife/woocommerce/cart/cart.php:134
+msgid "Update cart"
+msgstr ""
+
+#: ../ecolife/woocommerce/cart/cart.php:150
+msgid "Coupon"
+msgstr ""
+
+#: ../ecolife/woocommerce/cart/cart.php:151
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: ../ecolife/woocommerce/cart/cross-sells.php:59
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../ecolife/woocommerce/cart/mini-cart.php:35
+msgid "My cart"
+msgstr ""
+
+#: ../ecolife/woocommerce/cart/mini-cart.php:89
+msgid "Subtotal"
+msgstr ""
+
+#: ../ecolife/woocommerce/cart/mini-cart.php:97
+msgid "No products in the cart."
+msgstr ""
+
+#: ../ecolife/woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../ecolife/woocommerce/checkout/form-checkout.php:59
+msgid "Your order"
+msgstr ""
+
+#: ../ecolife/woocommerce/class-wc-widget-cart.php:20
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../ecolife/woocommerce/class-wc-widget-cart.php:22
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../ecolife/woocommerce/class-wc-widget-cart.php:26
+#: ../ecolife/woocommerce/class-wc-widget-cart.php:48
+msgid "Cart"
+msgstr ""
+
+#: ../ecolife/woocommerce/class-wc-widget-cart.php:32
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../ecolife/woocommerce/content-product-archive.php:72
+#: ../ecolife/woocommerce/content-product-archive.php:189
+#: ../ecolife/woocommerce/content-product.php:52
+#: ../ecolife/woocommerce/content-product.php:200
+msgid "Sale"
+msgstr ""
+
+#: ../ecolife/woocommerce/content-product.php:144
+#, php-format
+msgid "Available: <span>%s</span>"
+msgstr ""
+
+#: ../ecolife/woocommerce/content-product.php:148
+#, php-format
+msgid "Units Sold: <span>%s</span>"
+msgstr ""
+
+#: ../ecolife/woocommerce/content-product.php:152
+msgid "Units Sold: <span>0</span>"
+msgstr ""
+
+#: ../ecolife/woocommerce/content-product.php:161
+#: ../ecolife/woocommerce/content-product.php:234
+msgid "Hurry Up! Offer End In:"
+msgstr ""
+
+#: ../ecolife/woocommerce/loop/orderby.php:25
+msgid "Sort By :"
+msgstr ""
+
+#: ../ecolife/woocommerce/myaccount/my-orders.php:34
+msgid "Recent Orders"
+msgstr ""
+
+#: ../ecolife/woocommerce/myaccount/my-orders.php:40
+msgid "Order"
+msgstr ""
+
+#: ../ecolife/woocommerce/myaccount/my-orders.php:41
+msgid "Date"
+msgstr ""
+
+#: ../ecolife/woocommerce/myaccount/my-orders.php:67
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: ../ecolife/woocommerce/myaccount/my-orders.php:76
+msgid "Pay"
+msgstr ""
+
+#: ../ecolife/woocommerce/myaccount/my-orders.php:83
+msgid "Cancel"
+msgstr ""
+
+#: ../ecolife/woocommerce/myaccount/my-orders.php:89
+msgid "View"
+msgstr ""

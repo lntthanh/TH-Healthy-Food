@@ -1,0 +1,174 @@
+/* TYPOGRAPHY
+-----------------------------*/
+
+	@productnamecolor: @product_name_color;
+	@pagecontentbg: @page_content_background;
+	@rowspace: @row_space;
+	@bodyfont: @body_font;
+	@textcolor: @text_color;
+	@textsize: @text_size;
+	@textselectedcolor: @text_selected_color;
+	@textselectedbg: @text_selected_bg;
+	@headingfont: @heading_font;
+	@headingcolor: @heading_color;
+	@heading_fontweight: @heading_font_weight;
+	@menufont: @menu_font;
+	@menucolor: @menu_color;
+	@menu_fontsize: @menu_font_size;
+	@menu_fontweight: @menu_font_weight;
+	@linkcolor: @link_color;
+	@linkhovercolor: @link_hover_color;
+	@linkactivecolor: @link_active_color;
+	@dropdownfont: @dropdown_font;
+	@dropdown_fontsize: @dropdown_font_size;
+	@dropdown_fontweight: @dropdown_font_weight;
+	@dropdowncolor: @dropdown_color;
+	@dropdownbg: @dropdown_bg;
+	@submenufont: @sub_menu_font;
+	@submenu_fontsize: @sub_menu_font_size;
+	@submenu_fontweight: @sub_menu_font_weight;
+	@submenucolor: @sub_menu_color;
+	@submenubg: @sub_menu_bg;
+	@categoriesfont: @categories_font;
+	@categories_fontsize: @categories_font_size;
+	@categories_fontweight: @categories_font_weight;
+	@categoriescolor: @categories_color;
+	@categorieslabelbg: @categories_menu_label_bg;
+	@categoriesbg: @categories_menu_bg;
+	@categoriessubmenufont: @categories_sub_menu_font;
+	@categoriessubmenu_fontsize: @categories_sub_menu_font_size;
+	@categoriessubmenu_fontweight: @categories_sub_menu_font_weight;
+	@categoriessubmenucolor: @categories_sub_menu_color;
+	@categoriessubmenubg: @categories_sub_menu_bg;
+	@pricefont: @price_font;
+	@price_fontsize: @price_font_size;
+	@price_fontweight: @price_font_weight;
+	@pricecolor: @price_color;
+	@pricesalecolor: @price_sale_color;
+	@primarycolor: @primary_color;
+	@salecolor: @sale_color;
+	@saletextcolor: @saletext_color;
+	@ratecolor: @rate_color;
+	@bordercolor:@border_color;
+	@headerbg: @header_bg;
+	@headercolor: @header_color;
+	@headerlinkcolor: @header_link_color;
+	@headerlinkhovercolor: @header_link_hover_color;
+	@headerlinkactivecolor: @header_link_active_color;
+	@headerstickybg: @header_sticky_bg;
+	@headerstickycolor: @header_sticky_color;
+	@headerstickylinkcolor: @header_sticky_link_color;
+	@headerstickylinkhovercolor: @header_sticky_link_hover_color;
+	@headerstickylinkactivecolor: @header_sticky_link_active_color;
+	@footerbg: @footer_bg;
+	@footercolor: @footer_color;
+	@footerlinkcolor: @footer_link_color;
+	@footerlinkhovercolor: @footer_link_hover_color;
+	@footerlinkactivecolor: @footer_link_active_color;
+	@topbarbg: @topbar_bg;
+    @topbarcolor: @topbar_color;
+    @topbarlinkcolor: @topbar_link_color;
+    @topbarlinkhovercolor: @topbar_link_hover_color;
+    @topbarlinkactivecolor: @topbar_link_active_color;
+
+/* ANIMATION KEYFRAME
+-----------------------------*/
+//rotate
+@-moz-keyframes rotate {
+    0% {
+        .transform(rotateY(0deg));
+    }
+    50% {
+        .transform(rotateY(180deg));
+    }
+    100% {
+        .transform(rotateY(0deg));
+    }
+}
+@-webkit-keyframes rotate {
+    0% {
+        .transform(rotateY(0deg));
+    }
+    50% {
+        .transform(rotateY(180deg));
+    }
+    100% {
+        .transform(rotateY(0deg));
+    }
+}
+@keyframes rotate {
+    0% {
+        .transform(rotateY(0deg));
+    }
+    50% {
+        .transform(rotateY(180deg));
+    }
+    100% {
+        .transform(rotateY(0deg));
+    }
+}
+// countdowntiming
+@-moz-keyframes countdowntiming {
+    0% {
+        transform: translateY(50px);
+        .opacity(0);
+    }
+    100% {
+        transform: translateY(0);
+        .opacity(1);
+    }
+}
+@-webkit-keyframes countdowntiming {
+    0% {
+        transform: translateY(50px);
+        .opacity(0);
+    }
+    100% {
+        transform: translateY(0);
+        .opacity(1);
+    }
+}
+@keyframes countdowntiming {
+    0% {
+        transform: translateY(50px);
+        .opacity(0);
+    }
+    100% {
+        transform: translateY(0);
+        .opacity(1);
+    }
+}
+// zoomIn
+@-moz-keyframes zoomIn {
+    0% {
+        opacity:0;
+        -webkit-transform:scale3d(.8, .8, .8);
+                transform:scale3d(.8, .8, .8);
+    }
+    50% {
+        opacity:1;
+    }
+}
+@-webkit-keyframes zoomIn {
+    0% {
+        opacity:0;
+        -webkit-transform:scale3d(.8, .8, .8);
+                transform:scale3d(.8, .8, .8);
+    }
+    50% {
+        opacity:1;
+    }
+}
+@keyframes zoomIn {
+    0% {
+        opacity:0;
+        -webkit-transform:scale3d(.8, .8, .8);
+                transform:scale3d(.8, .8, .8);
+    }
+    50% {
+        opacity:1;
+    }
+}
+
+
+
